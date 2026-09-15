@@ -47,6 +47,7 @@ The skills run on [Claude Code](https://docs.claude.com/en/docs/claude-code/over
 
 ## News 🔥🔥🔥
 
+- [**2026-09-15**] `release` **[pptx2video](https://github.com/ai-nuts/pptx2video) is now open source** — turn editable PowerPoint slides into narrated videos with animations and captions. Use it as a skill or run the CLI without an LLM.
 - [**2026-08-25**] `release` **[Trending Paper](https://microsoft.github.io/ResearchStudio/trending-paper) is released** — meet the trending research through ResearchStudio Reels.
 - [**2026-08-13**] `feature` **[IdeaSpark](ResearchStudio-Idea/) keeps the whole user query** — the user query is persisted verbatim and read by every phase that reasons about intent; papers named in it without a link are resolved and deep-read; and a stated solution direction reaches idea selection, which must record whether it followed or departed from that direction, and why.
 - [**2026-07-08**] `release` **[ResearchStudio-Reel](ResearchStudio-Reel/) is released** — the *post-paper* half: turn a finished paper PDF into the artifacts a publication needs — a print-ready poster, a narrated walkthrough video, a bilingual blog post, and an interactive reel viewer.
